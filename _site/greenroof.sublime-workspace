@@ -1,0 +1,650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"P",
+				"Prata"
+			],
+			[
+				"al",
+				"alias"
+			],
+			[
+				"ZSH",
+				"ZSH_THEME"
+			],
+			[
+				"test",
+				"testModule"
+			],
+			[
+				"e",
+				"export"
+			],
+			[
+				"c",
+				"callmyself"
+			],
+			[
+				"gra",
+				"gradle"
+			],
+			[
+				"up",
+				"updateColdWaterCounters"
+			],
+			[
+				"co",
+				"coldWaterPin"
+			],
+			[
+				"h",
+				"hotWaterPin"
+			],
+			[
+				"w",
+				"waterPin"
+			],
+			[
+				"water",
+				"waterAmount"
+			],
+			[
+				"si",
+				"signalStatus"
+			],
+			[
+				"sw",
+				"switch\tArduino switch"
+			],
+			[
+				"EE",
+				"EEAddress"
+			],
+			[
+				"col",
+				"coldWaterAmount"
+			],
+			[
+				"b",
+				"boolean"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 19566,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_includes/themes/bootstrap/default.html",
+			"settings":
+			{
+				"buffer_size": 4583,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 1033,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "assets/sass/_buttons.scss",
+			"settings":
+			{
+				"buffer_size": 6122,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 208.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"subl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"scheme",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"pa",
+				"Package Coverage: Run Tests"
+			],
+			[
+				"repo",
+				"Package Control: Add Repository"
+			],
+			[
+				"pack",
+				"Package Control: Remove Repository"
+			],
+			[
+				"depen",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"depe",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"deve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"actualv",
+				"ActualVim: Disable (Global)"
+			],
+			[
+				"vim",
+				"ActualVim: Disable (Global)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"jso",
+				"Set Syntax: NPM JSON"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"co",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"theme t",
+				"Theme Tweaker: Toggle Tweak Mode"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"colo",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"androi",
+				"Android: Add Imports"
+			],
+			[
+				"and",
+				"Android: Generate Getters and Settegs"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"themet",
+				"Theme Tweaker: Toggle Tweak Mode"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"font",
+				"Set Syntax: Font"
+			],
+			[
+				"mate",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"th",
+				"Colorsublime: Browse Themes Online"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"Package C",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 584.0
+	},
+	"console":
+	{
+		"height": 201.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io",
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io/_includes",
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io/_includes/themes",
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io/_includes/themes/bootstrap",
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io/_layouts",
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io/assets",
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io/assets/sass"
+	],
+	"file_history":
+	[
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io/scss_from_theme/greenroof/sass/main.scss",
+		"/Users/Vault/Documents/@MyWork/code/Web/greenroof.github.io/scss_from_theme/main.scss",
+		"/Users/Vault/Documents/@MyWork/code/Web/django/sayangroup/sayangroupdj/settings.py",
+		"/Users/Vault/Documents/@MyWork/code/Web/django/testapp/models.py",
+		"/Users/Vault/Documents/@MyWork/code/Web/django/testapp/admin.py",
+		"/Users/Vault/Documents/@MyWork/code/Web/django/testsite/settings.py",
+		"/Users/Vault/Documents/@MyWork/code/Web/learnplaycreate.github.io/_config.yml",
+		"/Users/Vault/Documents/@MyWork/crypto/holdersit",
+		"/Users/Vault/Documents/@MyWork/code/Web/ready_backup/_sass/_typography.scss",
+		"/Users/Vault/Documents/@MyWork/code/Web/chalk/_config.yml",
+		"/Users/Vault/Documents/@MyWork/code/Web/stereovibe.github.io/_sass/_variables.scss",
+		"/Users/Vault/Documents/@MyWork/code/Web/default/_config.yml",
+		"/Users/Vault/Library/Application Support/abnerworks.Typora/themes/speed-pshh.less",
+		"/Users/Vault/Library/Application Support/abnerworks.Typora/themes/pixyll.css",
+		"/Users/Vault/Documents/@MyWork/code/Web/stereovibe.github.io/_site/assets/main.css",
+		"/Users/Vault/Downloads/researcher-gh-pages/css/style.css",
+		"/Users/Vault/Downloads/chalk-master/_assets/stylesheets/dark.scss",
+		"/Users/Vault/Downloads/chalk-master/_assets/stylesheets/light.scss",
+		"/Users/Vault/Downloads/accent-gh-pages/css/main.scss",
+		"/Users/Vault/Downloads/accent-gh-pages/_sass/_style.scss",
+		"/Users/Vault/Downloads/jekyll-resume-gh-pages/_sass/_footer.scss",
+		"/Users/Vault/Downloads/jekyll-resume-gh-pages/css/main.scss",
+		"/Users/Vault/Downloads/kactus-master/assets/css/style.css",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/sandbox/android-testing/unit/BasicUnitAndroidTest/app/src/androidTest/java/com/example/android/testing/unittesting/basicunitandroidtest/LogHistoryAndroidUnitTest.java",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/WayOfTurtles/.git/COMMIT_EDITMSG",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/WayOfTurtles/.gitignore",
+		"/Users/Vault/.oh-my-zsh/custom/enter.zsh",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/CarWashAdvice/app/build.gradle",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/sandbox/architectureComponentsSunshineStartingCode/settings.gradle",
+		"/Users/Vault/Library/Application Support/Sublime Text 3/Packages/User/ActualVim.sublime-settings",
+		"/usr/local/bin/privet",
+		"/Users/Vault/.oh-my-zsh/oh-my-zsh.sh",
+		"/Users/Vault/.oh-my-zsh/lib/misc.zsh",
+		"/Users/Vault/.oh-my-zsh/lib/theme-and-appearance.zsh",
+		"/Users/Vault/.oh-my-zsh/templates/zshrc.zsh-template",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/CarWashAdvice/app/src/main/java/io/sokolvault13/carwashadvice/LocationService.java",
+		"/Users/Vault/privet",
+		"/Users/Vault/.zshrc",
+		"/Users/Vault/.oh-my-zsh/lib/functions.zsh",
+		"/Users/Vault/.oh-my-zsh/lib/prompt_info_functions.zsh",
+		"/Users/Vault/.oh-my-zsh/custom/lib/enter.zsh",
+		"/Users/Vault/untest",
+		"/Users/Vault/.oh-my-zsh/themes/agnoster.zsh-theme",
+		"/Users/Vault/.oh-my-zsh/custom/example.zsh",
+		"/lib/enter.zsh",
+		"/Users/Vault/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Vault/.bash_profile",
+		"/Users/Vault/.bashrc",
+		"/Users/Vault/.oh-my-zsh/lib/directories.zsh",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/CarWashAdvice/app/src/test/java/io/sokolvault13/carwashadvice/LocationServiceCreationTest.java",
+		"/Users/Vault/bin/privet.sh",
+		"/Users/Vault/bin/.bashrc",
+		"/Users/Vault/Library/Application Support/Sublime Text 3/Packages/User/theme_tweaker.sublime-settings",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/CarWashAdvice/build.gradle",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/CarWashAdvice/settings.gradle",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/CarWashAdvice/local.properties",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/CarWashAdvice/gradle.properties",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/CarWashAdvice/zshconf",
+		"/Users/Vault/Library/Application Support/Sublime Text 3/Packages/AutoSetSyntax/README.md",
+		"/Users/Vault/Library/Application Support/Sublime Text 3/Packages/ThemeTweaker/theme_tweaker.sublime-settings",
+		"/Users/Vault/Library/Application Support/Sublime Text 3/Packages/ThemeAutomator/README.md",
+		"/Users/Vault/Library/Application Support/Sublime Text 3/Packages/User/ThemeAutomator.sublime-settings",
+		"/Users/Vault/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/.zshrc",
+		"/Users/Vault/.android/avd/Nexus_5X_API_26.ini",
+		"/Users/Vault/Documents/@MyWork/code/Java_Kotlin_Scala/Android/commercial/CarWashAdvice/.gitignore"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1246,
+								1246
+							]
+						],
+						"settings":
+						{
+							"actual_mode": false,
+							"av_input": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 265.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "_includes/themes/bootstrap/default.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4583,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1268,
+								1268
+							]
+						],
+						"settings":
+						{
+							"actual_mode": false,
+							"av_input": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 66.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "assets/sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1033,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								923,
+								923
+							]
+						],
+						"settings":
+						{
+							"actual_mode": false,
+							"av_input": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 328.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "assets/sass/_buttons.scss",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"actual_mode": false,
+							"av_input": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4520.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 64.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.eeprom_test":
+	{
+		"height": 100.0
+	},
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.shellenv_tests":
+	{
+		"height": 210.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_log":
+	{
+		"height": 100.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "greenroof.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
